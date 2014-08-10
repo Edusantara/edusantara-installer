@@ -1,3 +1,9 @@
+edusantara-installer (0.1.61+edusantara3) anambas; urgency=low
+
+  * Fix logo name
+
+ -- Mahyuddin <yudi.al@gmail.com>  Mon, 11 Aug 2014 00:07:16 +0700
+
 edusantara-installer (0.1.61+edusantara2) anambas; urgency=low
 
   * Added: Edusantara logo
