@@ -1,3 +1,9 @@
+edusantara-installer (0.1.61+edusantara2) anambas; urgency=low
+
+  * Added: Edusantara logo
+
+ -- Mahyuddin <yudi.al@gmail.com>  Sun, 10 Aug 2014 18:10:11 +0700
+
 edusantara-installer (0.1.61+edusantara1) anambas; urgency=low
 
   * Porting to Edusantara
