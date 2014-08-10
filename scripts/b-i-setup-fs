@@ -99,8 +99,8 @@ cp -f $ROOTFS/etc/localtime $ROOTFS/target/etc/localtime
 
 ###### Repository
 
-if [ -f $ROOTFS/usr/share/blankon-repository-setup/sources.list ];then
-    cp -f $ROOTFS/usr/share/blankon-repository-setup/sources.list $ROOTFS/target/etc/apt/ 
+if [ -f $ROOTFS/usr/share/edusantara-repository-setup/sources.list ];then
+    cp -f $ROOTFS/usr/share/edusantara-repository-setup/sources.list $ROOTFS/target/etc/apt/ 
 fi
 
 ###### Swap
