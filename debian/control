@@ -27,7 +27,7 @@ Depends: parted,
          passwd, 
          initramfs-tools, 
          edusantara-repository-setup,
-         plymouth-theme-blankon
+         plymouth-theme-blankon,
          ${misc:Depends}, 
          ${shlibs:Depends}
 Conflicts: debian-installer-launcher
