@@ -1,3 +1,10 @@
+edusantara-installer (0.1.61+edusantara6) anambas; urgency=medium
+
+  * src/edusantara-installer.desktop:
+    - Icon=edusantara-installer
+
+ -- Mijortsa <azis.astrojim@surabaya.di.blankon.in>  Sun, 17 Aug 2014 14:20:22 +0700
+
 edusantara-installer (0.1.61+edusantara5) anambas; urgency=medium
 
   * debian/control 
