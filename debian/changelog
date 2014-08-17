@@ -1,3 +1,10 @@
+edusantara-installer (0.1.61+edusantara5) anambas; urgency=medium
+
+  * debian/control 
+    - edit typo
+
+ -- Mijortsa <azis.astrojim@surabaya.di.blankon.in>  Sun, 17 Aug 2014 14:10:50 +0700
+ 
 edusantara-installer (0.1.61+edusantara4) anambas; urgency=medium
 
   * Remove ace, BMS 
