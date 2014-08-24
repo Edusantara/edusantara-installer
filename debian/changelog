@@ -1,8 +1,14 @@
+edusantara-installer (0.1.61+edusantara8) anambas; urgency=medium
+
+  * system/makefile to blankon
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 24 Aug 2014 21:24:50 +0700
+
 edusantara-installer (0.1.61+edusantara7) anambas; urgency=medium
 
   * Back to BlankOn Installer 
 
- -- Mijortsa <aftian@localhost>  Sun, 24 Aug 2014 21:16:45 +0700
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 24 Aug 2014 21:16:45 +0700
 
 edusantara-installer (0.1.61+edusantara6) anambas; urgency=medium
 
