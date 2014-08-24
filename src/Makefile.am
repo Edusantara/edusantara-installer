@@ -28,7 +28,7 @@ edusantara_installer_LDADD = \
 	$(NULL)
 
 desktopdir = $(prefix)/share/applications
-dist_desktop_DATA = edusantara-installer.desktop
+dist_desktop_DATA = blankon-installer.desktop
 
 EXTRA_DIST = \
 	$(NULL)

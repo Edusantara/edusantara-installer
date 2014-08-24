@@ -1,3 +1,9 @@
+edusantara-installer (0.1.61+edusantara9) anambas; urgency=medium
+
+  * debian/rules
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sun, 24 Aug 2014 21:30:50 +0700
+
 edusantara-installer (0.1.61+edusantara8) anambas; urgency=medium
 
   * system/makefile to blankon

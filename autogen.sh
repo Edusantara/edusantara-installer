@@ -4,6 +4,6 @@
 srcdir=`dirname $0`
 test -z "$srcdir" && srcdir=.
 
-PKG_NAME="edusantara-installer"
+PKG_NAME="blankon-installer"
 
 . gnome-autogen.sh
