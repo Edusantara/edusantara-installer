@@ -2,9 +2,10 @@
 Version=1.0
 Name=Install Edusantara
 Comment=Install Edusantara permanently to your hard disk
-Exec=gksudo /usr/bin/edusantara-installer
+Exec=gksudo /usr/bin/blankon-installer
 Icon=edusantara-installer
 Type=Application
 Categories=Application;System;
 StartupNotify=true
 Terminal=false
+Name[id_ID]=blankon-installer.desktop

@@ -5,14 +5,14 @@ if [ -z "$TRY_B_I" ];then
 fi
 
 grep "boot=live" /proc/cmdline
-if [ $? -eq 0 -a -x /usr/bin/edusantara-installer ];then
+if [ $? -eq 0 -a -x /usr/bin/blankon-installer ];then
 
     rm -f /run/locale
 
     # Add option user to identify owner
-	sudo -E nice -n -20 su -c edusantara-installer
+	sudo -E nice -n -20 su -c blankon-installer
 
-# Run post-install script when created by edusantara-installer
+# Run post-install script when created by blankon-installer
     if [ -f /tmp/post-install.sh ];then
         . /tmp/post-install.sh
     fi 

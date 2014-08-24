@@ -8,7 +8,7 @@ AM_CPPFLAGS = \
 	-DPKGDATADIR=\""$(pkgdatadir)"\" \
 	$(NULL)
 
-bin_PROGRAMS = edusantara-installer
+bin_PROGRAMS = blankon-installer
 
 edusantara_installer_SOURCES = \
     main.vala \

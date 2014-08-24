@@ -16,14 +16,14 @@ if test $USE_DEVEL = yes ; then
 AC_DEFINE_UNQUOTED(SYSTEM_PATH, "$PWD/system", [Location of the JS scripts])
 AC_SUBST(SYSTEM_PATH)
 else
-AC_DEFINE(SYSTEM_PATH, "/usr/lib/edusantara-installer/system", [Location of the JS scripts])
+AC_DEFINE(SYSTEM_PATH, "/usr/lib/blankon-installer/system", [Location of the JS scripts])
 AC_SUBST(SYSTEM_PATH)
 fi
 
 
 
 AH_TEMPLATE([GETTEXT_PACKAGE], [Package name for gettext])
-GETTEXT_PACKAGE=edusantara-installer
+GETTEXT_PACKAGE=blankon-installer
 AC_DEFINE_UNQUOTED(GETTEXT_PACKAGE, "$GETTEXT_PACKAGE")
 AC_SUBST(GETTEXT_PACKAGE)
 AM_GLIB_GNU_GETTEXT

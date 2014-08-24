@@ -10,7 +10,7 @@ public class Log : GLib.Object {
 
     public Log () {
         try {
-            var file = File.new_for_path ("/var/log/edusantara-installer.log");
+            var file = File.new_for_path ("/var/log/blankon-installer.log");
             if (file.query_exists ()) {
                 file.delete ();
             }
